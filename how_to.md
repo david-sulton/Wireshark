@@ -3,6 +3,9 @@
 # Looking at packets
 - TCP handshake
 - TCP Options
+- Conversation Filter
+- Delta time filter (Where is time being spent)
+- TCP Indicators/Info (ZeroWindow, Window Full, RST, ACK)
 
 
 ## TCP handshake
@@ -15,3 +18,4 @@
 - 
 ![image](https://github.com/user-attachments/assets/a0cf4862-2835-443c-b429-b76356520e1c)
 https://www.youtube.com/watch?v=5yOw2_x1Pxg
+
