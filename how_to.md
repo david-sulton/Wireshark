@@ -6,6 +6,7 @@
 - Conversation Filter
 - Delta time filter (Where is time being spent)
 - TCP Indicators/Info (ZeroWindow, Window Full, RST, ACK)
+- Use **Brim** for further packet analysis
 
 
 ## TCP handshake
